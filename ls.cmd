@@ -1,0 +1,1 @@
+node C:\Users\anubh\Desktop\Dev\PATHS\Functions\ls.js %1
